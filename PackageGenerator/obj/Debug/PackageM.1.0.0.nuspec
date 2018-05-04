@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PackageM</id>
+    <version>1.0.0</version>
+    <authors>AG</authors>
+    <owners>AG</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PackageM</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\anangaur\Documents\Visual Studio 2017\Projects\PackageGenerator\PackageGenerator\bin\Debug\netstandard2.0\PackageGenerator.dll" target="lib\netstandard2.0\PackageGenerator.dll" />
+  </files>
+</package>
