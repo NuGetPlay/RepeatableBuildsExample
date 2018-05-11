@@ -1,0 +1,16 @@
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\obj\Debug\netcoreapp2.0\ProjectA.csprojResolveAssemblyReference.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\obj\Debug\netcoreapp2.0\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\obj\Debug\netcoreapp2.0\ProjectA.AssemblyInfoInputs.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\obj\Debug\netcoreapp2.0\ProjectA.AssemblyInfo.cs
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\bin\Debug\netcoreapp2.0\ProjectA.deps.json
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\bin\Debug\netcoreapp2.0\ProjectA.runtimeconfig.json
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\bin\Debug\netcoreapp2.0\ProjectA.runtimeconfig.dev.json
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\bin\Debug\netcoreapp2.0\ProjectA.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\bin\Debug\netcoreapp2.0\ProjectA.pdb
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\bin\Debug\netcoreapp2.0\ProjectB.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\bin\Debug\netcoreapp2.0\ProjectC.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\bin\Debug\netcoreapp2.0\ProjectB.pdb
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\bin\Debug\netcoreapp2.0\ProjectC.pdb
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\obj\Debug\netcoreapp2.0\ProjectA.csproj.CopyComplete
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\obj\Debug\netcoreapp2.0\ProjectA.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectA\obj\Debug\netcoreapp2.0\ProjectA.pdb

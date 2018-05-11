@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>PackageM</PackageId>
+    <Product>AG</Product>
+    <Company>AG</Company>
+    <Authors>AG</Authors>
+    <Description>PackageM 1.0.0</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <Target Name="CopyFiles" AfterTargets="Pack">  
+        <Copy SourceFiles="$(OutputPath)..\$(PackageId).$(PackageVersion).nupkg" DestinationFolder="C:\Play\Nuget\NuGetLocal\" />  
+    </Target>
+
+  <ItemGroup>
+    <PackageReference Include="PackageQ" Version="2.0.0" />
+  </ItemGroup>  
+  
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\bin\Debug\netstandard2.0\PackageN.deps.json
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\bin\Debug\netstandard2.0\PackageN.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\bin\Debug\netstandard2.0\PackageN.pdb
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageN.csproj.CoreCompileInputs.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageN.AssemblyInfoInputs.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageN.AssemblyInfo.cs
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageN.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageN.pdb
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageN.csprojResolveAssemblyReference.cache

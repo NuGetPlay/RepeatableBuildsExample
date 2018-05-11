@@ -1,0 +1,9 @@
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\bin\Debug\netstandard2.0\PackageQ.deps.json
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\bin\Debug\netstandard2.0\PackageQ.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\bin\Debug\netstandard2.0\PackageQ.pdb
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageQ.csprojResolveAssemblyReference.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageQ.csproj.CoreCompileInputs.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageQ.AssemblyInfoInputs.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageQ.AssemblyInfo.cs
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageQ.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\PackageGenerator\obj\Debug\netstandard2.0\PackageQ.pdb

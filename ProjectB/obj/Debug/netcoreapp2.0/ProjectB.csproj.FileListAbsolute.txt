@@ -1,0 +1,12 @@
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.csprojResolveAssemblyReference.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.csproj.CoreCompileInputs.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.AssemblyInfoInputs.cache
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.AssemblyInfo.cs
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\bin\Debug\netcoreapp2.0\ProjectB.deps.json
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\bin\Debug\netcoreapp2.0\ProjectB.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\bin\Debug\netcoreapp2.0\ProjectB.pdb
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\bin\Debug\netcoreapp2.0\ProjectC.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\bin\Debug\netcoreapp2.0\ProjectC.pdb
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.csproj.CopyComplete
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.dll
+C:\Users\anangaur\Documents\Visual Studio 2017\Projects\RepeatableBuildsExample\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.pdb

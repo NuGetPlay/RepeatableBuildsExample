@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PackageGenerator
+namespace PackageN
 {
     public class Class1
     {
