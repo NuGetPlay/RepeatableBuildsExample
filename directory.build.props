@@ -1,0 +1,8 @@
+﻿<Project>
+  <PropertyGroup>
+    <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="*" />
+  </ItemGroup>  
+</Project>
